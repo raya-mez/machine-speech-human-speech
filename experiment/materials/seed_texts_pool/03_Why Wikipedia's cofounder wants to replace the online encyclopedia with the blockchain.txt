@@ -1,0 +1,7 @@
+Jimmy Wales, cofounder of Wikipedia, says the online encyclopedia he helped launch 25 years ago needs a radical overhaul — and he believes blockchain technology could provide it. Speaking at a technology conference this week, Wales argued that Wikipedia’s volunteer-driven model has struggled with declining editor participation, opaque governance disputes and growing mistrust over content moderation.
+
+Under his proposal, articles and edits would be recorded on a public blockchain, creating a transparent, tamper-resistant history of every contribution. Contributors could earn digital tokens for verified edits, potentially providing financial incentives to attract subject-matter experts. Smart contracts might also be used to manage disputes and automate editorial decisions according to community-approved rules.
+
+Wales contends that decentralization would reduce the power of small administrator groups and make it harder for coordinated misinformation campaigns to manipulate entries. Critics, however, question whether blockchain systems can scale to handle Wikipedia’s vast traffic and warn that token incentives could encourage low-quality edits.
+
+The Wikimedia Foundation said it is reviewing emerging technologies but remains committed to its nonprofit mission and community governance. Whether blockchain can truly replace Wikipedia’s current infrastructure remains uncertain, yet the debate underscores mounting pressure to reinvent one of the internet’s most trusted resources globally.

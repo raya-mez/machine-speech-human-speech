@@ -1,0 +1,22 @@
+{
+    "gen1": {
+        "flagged": [
+            15
+        ],
+        "stopped": []
+    },
+    "gen2": {
+        "flagged": [],
+        "stopped": []
+    },
+    "gen3": {
+        "flagged": [],
+        "stopped": []
+    },
+    "gen4": {
+        "flagged": [
+            8
+        ],
+        "stopped": []
+    }
+}

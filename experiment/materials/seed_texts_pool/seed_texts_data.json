@@ -1,0 +1,470 @@
+{
+    "1": {
+        "title": "Why are companies moving to the cloud? 81% simply fear 'missing out'",
+        "text": "A growing number of companies are migrating to cloud computing platforms, and new research suggests that fear of being left behind is a major driver. According to a recent industry survey, 81% of business leaders say their organization’s cloud investments are influenced by concerns about “missing out” on innovation, competitive advantage, or industry momentum.\n\nWhile cost savings, scalability, and flexibility remain commonly cited benefits of cloud adoption, the study indicates that competitive pressure now plays an equally powerful role. Executives report feeling compelled to modernize IT systems as rivals adopt artificial intelligence tools, data analytics platforms, and remote collaboration technologies built on cloud infrastructure.\n\nAnalysts say this “fear of missing out,” or FOMO, reflects a broader shift in corporate strategy. Rather than waiting for clear returns on investment, companies are increasingly making proactive technology bets to avoid falling behind faster-moving competitors. In some sectors, particularly finance, retail, and healthcare, cloud adoption is viewed as essential for digital transformation.\n\nHowever, experts caution that rushed migrations can create new risks, including cybersecurity vulnerabilities and spiraling costs. They advise firms to pair cloud enthusiasm with clear planning and governance.\n\nUltimately, the cloud has become less of a technical upgrade and more of a strategic necessity—driven as much by perception and pressure as by measurable gains.",
+        "sentence_list": [
+            "A growing number of companies are migrating to cloud computing platforms, and new research suggests that fear of being left behind is a major driver.",
+            "According to a recent industry survey, 81% of business leaders say their organization’s cloud investments are influenced by concerns about “missing out” on innovation, competitive advantage, or industry momentum.",
+            "While cost savings, scalability, and flexibility remain commonly cited benefits of cloud adoption, the study indicates that competitive pressure now plays an equally powerful role.",
+            "Executives report feeling compelled to modernize IT systems as rivals adopt artificial intelligence tools, data analytics platforms, and remote collaboration technologies built on cloud infrastructure.",
+            "Analysts say this “fear of missing out,” or FOMO, reflects a broader shift in corporate strategy.",
+            "Rather than waiting for clear returns on investment, companies are increasingly making proactive technology bets to avoid falling behind faster-moving competitors.",
+            "In some sectors, particularly finance, retail, and healthcare, cloud adoption is viewed as essential for digital transformation.",
+            "However, experts caution that rushed migrations can create new risks, including cybersecurity vulnerabilities and spiraling costs.",
+            "They advise firms to pair cloud enthusiasm with clear planning and governance.",
+            "Ultimately, the cloud has become less of a technical upgrade and more of a strategic necessity—driven as much by perception and pressure as by measurable gains."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            3,
+            6,
+            8,
+            9
+        ]
+    },
+    "2": {
+        "title": "Inside the Beijing Dance Academy",
+        "text": "At dawn, the marble corridors of the Beijing Dance Academy echo with the soft thud of pointe shoes and the clipped commands of instructors. Founded in 1954, the prestigious institution has become a crucible for China’s most accomplished ballet and classical dancers, blending Russian-inspired technique with traditional Chinese aesthetics. \n\nInside, students as young as eleven train for hours each day, balancing academic studies with grueling rehearsals. Faculty members, many of them former principal dancers, emphasize discipline, precision, and emotional expression. “Technique is only the beginning,” says Li Xinyue, a senior instructor. “We teach our students to tell stories that resonate beyond borders.” \n\nThe academy’s studios are lined with mirrors and barres, but also with calligraphy scrolls and framed production stills from revolutionary-era ballets. Recent graduates have joined leading companies in Shanghai, London, and New York, reflecting the school’s growing international reach. \n\nYet competition remains fierce. Each year, thousands audition for a handful of places, driven by dreams of center stage. As China invests heavily in cultural diplomacy, the Beijing Dance Academy stands as both training ground and symbol of artistic ambition. Administrators say new scholarships aim to widen access for rural and lower-income applicants nationwide next year amid sweeping reforms.",
+        "sentence_list": [
+            "At dawn, the marble corridors of the Beijing Dance Academy echo with the soft thud of pointe shoes and the clipped commands of instructors.",
+            "Founded in 1954, the prestigious institution has become a crucible for China’s most accomplished ballet and classical dancers, blending Russian-inspired technique with traditional Chinese aesthetics.",
+            "Inside, students as young as eleven train for hours each day, balancing academic studies with grueling rehearsals.",
+            "Faculty members, many of them former principal dancers, emphasize discipline, precision, and emotional expression.",
+            "“Technique is only the beginning,” says Li Xinyue, a senior instructor.",
+            "“We teach our students to tell stories that resonate beyond borders.”",
+            "The academy’s studios are lined with mirrors and barres, but also with calligraphy scrolls and framed production stills from revolutionary-era ballets.",
+            "Recent graduates have joined leading companies in Shanghai, London, and New York, reflecting the school’s growing international reach.",
+            "Yet competition remains fierce.",
+            "Each year, thousands audition for a handful of places, driven by dreams of center stage.",
+            "As China invests heavily in cultural diplomacy, the Beijing Dance Academy stands as both training ground and symbol of artistic ambition.",
+            "Administrators say new scholarships aim to widen access for rural and lower-income applicants nationwide next year amid sweeping reforms."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            5,
+            7,
+            11
+        ]
+    },
+    "3": {
+        "title": "Why Wikipedia's cofounder wants to replace the online encyclopedia with the blockchain",
+        "text": "Jimmy Wales, cofounder of Wikipedia, says the online encyclopedia he helped launch 25 years ago needs a radical overhaul — and he believes blockchain technology could provide it. Speaking at a technology conference this week, Wales argued that Wikipedia’s volunteer-driven model has struggled with declining editor participation, opaque governance disputes and growing mistrust over content moderation.\n\nUnder his proposal, articles and edits would be recorded on a public blockchain, creating a transparent, tamper-resistant history of every contribution. Contributors could earn digital tokens for verified edits, potentially providing financial incentives to attract subject-matter experts. Smart contracts might also be used to manage disputes and automate editorial decisions according to community-approved rules.\n\nWales contends that decentralization would reduce the power of small administrator groups and make it harder for coordinated misinformation campaigns to manipulate entries. Critics, however, question whether blockchain systems can scale to handle Wikipedia’s vast traffic and warn that token incentives could encourage low-quality edits.\n\nThe Wikimedia Foundation said it is reviewing emerging technologies but remains committed to its nonprofit mission and community governance. Whether blockchain can truly replace Wikipedia’s current infrastructure remains uncertain, yet the debate underscores mounting pressure to reinvent one of the internet’s most trusted resources globally.",
+        "sentence_list": [
+            "Jimmy Wales, cofounder of Wikipedia, says the online encyclopedia he helped launch 25 years ago needs a radical overhaul — and he believes blockchain technology could provide it.",
+            "Speaking at a technology conference this week, Wales argued that Wikipedia’s volunteer-driven model has struggled with declining editor participation, opaque governance disputes and growing mistrust over content moderation.",
+            "Under his proposal, articles and edits would be recorded on a public blockchain, creating a transparent, tamper-resistant history of every contribution.",
+            "Contributors could earn digital tokens for verified edits, potentially providing financial incentives to attract subject-matter experts.",
+            "Smart contracts might also be used to manage disputes and automate editorial decisions according to community-approved rules.",
+            "Wales contends that decentralization would reduce the power of small administrator groups and make it harder for coordinated misinformation campaigns to manipulate entries.",
+            "Critics, however, question whether blockchain systems can scale to handle Wikipedia’s vast traffic and warn that token incentives could encourage low-quality edits.",
+            "The Wikimedia Foundation said it is reviewing emerging technologies but remains committed to its nonprofit mission and community governance.",
+            "Whether blockchain can truly replace Wikipedia’s current infrastructure remains uncertain, yet the debate underscores mounting pressure to reinvent one of the internet’s most trusted resources globally."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            4,
+            6,
+            8
+        ]
+    },
+    "4": {
+        "title": "Uber Investigation Leads to Shake-Up",
+        "text": "Uber Technologies is facing a significant leadership shake-up following the release of an internal investigation into workplace misconduct and compliance failures, company officials confirmed Tuesday. The months-long probe, launched after a series of employee complaints and regulatory inquiries, uncovered lapses in oversight, inconsistent enforcement of company policies, and failures in reporting procedures.\n\nAs a result, three senior executives, including the head of regional operations, have stepped down, while two others have been placed on administrative leave pending further review. The company’s board said it has appointed an interim compliance chief and will form a new ethics committee to strengthen accountability measures.\n\nChief Executive Dara Khosrowshahi said in a statement that the findings were “deeply concerning” and pledged to implement sweeping reforms. “We are committed to rebuilding trust with our employees, drivers, riders, and regulators,” he said. “This moment demands transparency and decisive action.”\n\nThe investigation also prompted renewed scrutiny from transportation regulators in several major cities, where Uber’s operating licenses are subject to periodic review. Industry analysts say the shake-up could temporarily disrupt operations but may ultimately position the company for more stable growth if reforms are effectively implemented.\n\nUber shares closed down 3 percent following the announcement.",
+        "sentence_list": [
+            "Uber Technologies is facing a significant leadership shake-up following the release of an internal investigation into workplace misconduct and compliance failures, company officials confirmed Tuesday.",
+            "The months-long probe, launched after a series of employee complaints and regulatory inquiries, uncovered lapses in oversight, inconsistent enforcement of company policies, and failures in reporting procedures.",
+            "As a result, three senior executives, including the head of regional operations, have stepped down, while two others have been placed on administrative leave pending further review.",
+            "The company’s board said it has appointed an interim compliance chief and will form a new ethics committee to strengthen accountability measures.",
+            "Chief Executive Dara Khosrowshahi said in a statement that the findings were “deeply concerning” and pledged to implement sweeping reforms.",
+            "“We are committed to rebuilding trust with our employees, drivers, riders, and regulators,” he said.",
+            "“This moment demands transparency and decisive action.”",
+            "The investigation also prompted renewed scrutiny from transportation regulators in several major cities, where Uber’s operating licenses are subject to periodic review.",
+            "Industry analysts say the shake-up could temporarily disrupt operations but may ultimately position the company for more stable growth if reforms are effectively implemented.",
+            "Uber shares closed down 3 percent following the announcement."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            3,
+            6,
+            8,
+            9
+        ]
+    },
+    "5": {
+        "title": "Why Americans Go Crazy Over the Super Bowl",
+        "text": "Americans erupt every February for the Super Bowl, transforming a football game into an unofficial national holiday. The championship matchup of the National Football League routinely draws more than 100 million viewers, making it the most-watched television event in the United States. But the frenzy extends far beyond the final score.\n\nFor fans, the Super Bowl represents the climax of a months-long journey, filled with loyalty, rivalry, and regional pride. Families and friends gather for watch parties stocked with chicken wings, pizza, and nachos, turning living rooms into stadium-like celebrations. Even casual viewers tune in for the halftime show, which features global music icons and elaborate, headline-grabbing performances.\n\nAdvertisers fuel the spectacle. Companies spend millions of dollars for 30-second commercials, often debuting cinematic ads designed to spark conversation long after the game ends. Social media amplifies every touchdown, controversial call, and clever commercial in real time.\n\nThe Super Bowl also serves as a cultural mirror, reflecting trends in entertainment, technology, and politics. From celebrity appearances to surprise announcements, it offers something for nearly everyone. In a country often divided, the event provides a rare shared experience—one night when millions cheer, argue, and celebrate together. For many, it is tradition itself.",
+        "sentence_list": [
+            "Americans erupt every February for the Super Bowl, transforming a football game into an unofficial national holiday.",
+            "The championship matchup of the National Football League routinely draws more than 100 million viewers, making it the most-watched television event in the United States.",
+            "But the frenzy extends far beyond the final score.",
+            "For fans, the Super Bowl represents the climax of a months-long journey, filled with loyalty, rivalry, and regional pride.",
+            "Families and friends gather for watch parties stocked with chicken wings, pizza, and nachos, turning living rooms into stadium-like celebrations.",
+            "Even casual viewers tune in for the halftime show, which features global music icons and elaborate, headline-grabbing performances.",
+            "Advertisers fuel the spectacle.",
+            "Companies spend millions of dollars for 30-second commercials, often debuting cinematic ads designed to spark conversation long after the game ends.",
+            "Social media amplifies every touchdown, controversial call, and clever commercial in real time.",
+            "The Super Bowl also serves as a cultural mirror, reflecting trends in entertainment, technology, and politics.",
+            "From celebrity appearances to surprise announcements, it offers something for nearly everyone.",
+            "In a country often divided, the event provides a rare shared experience—one night when millions cheer, argue, and celebrate together.",
+            "For many, it is tradition itself."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            2,
+            5,
+            8,
+            12
+        ]
+    },
+    "6": {
+        "title": "Weird and wonderful Christmas traditions across Europe",
+        "text": "From roller-skating churchgoers in Venezuela to shoe-throwing children in Germany, Europe bursts into life each December with traditions that are as quirky as they are cherished. In Catalonia, Spain, families place a smiling log called Caga Tió in their homes and “feed” it for weeks before Christmas. On Christmas Eve, children beat the log with sticks while singing, urging it to deliver sweets and small gifts.\n\nIn Austria and parts of southern Germany, the festive season has a darker edge. Men dressed as horned Krampus creatures parade through town squares, rattling chains and playfully chasing spectators, reviving a centuries-old Alpine legend meant to frighten naughty children.\n\nOver in Ukraine, Christmas trees shimmer with artificial spider webs, inspired by a folktale in which spiders spun silver threads to help a poor family celebrate. Meanwhile in Norway, households hide their brooms on Christmas Eve to thwart mischievous spirits said to roam the night sky.\n\nThese unusual customs highlight Europe’s rich patchwork of folklore, faith and fun—reminding visitors that the magic of Christmas often lies in the delightfully unexpected. From Italy’s gift-bearing witch La Befana to the Czech custom of shoe-tossing to predict marriage, the continent embraces joyful eccentricity every festive winter season.",
+        "sentence_list": [
+            "From roller-skating churchgoers in Venezuela to shoe-throwing children in Germany, Europe bursts into life each December with traditions that are as quirky as they are cherished.",
+            "In Catalonia, Spain, families place a smiling log called Caga Tió in their homes and “feed” it for weeks before Christmas.",
+            "On Christmas Eve, children beat the log with sticks while singing, urging it to deliver sweets and small gifts.",
+            "In Austria and parts of southern Germany, the festive season has a darker edge.",
+            "Men dressed as horned Krampus creatures parade through town squares, rattling chains and playfully chasing spectators, reviving a centuries-old Alpine legend meant to frighten naughty children.",
+            "Over in Ukraine, Christmas trees shimmer with artificial spider webs, inspired by a folktale in which spiders spun silver threads to help a poor family celebrate.",
+            "Meanwhile in Norway, households hide their brooms on Christmas Eve to thwart mischievous spirits said to roam the night sky.",
+            "These unusual customs highlight Europe’s rich patchwork of folklore, faith and fun—reminding visitors that the magic of Christmas often lies in the delightfully unexpected.",
+            "From Italy’s gift-bearing witch La Befana to the Czech custom of shoe-tossing to predict marriage, the continent embraces joyful eccentricity every festive winter season."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            2,
+            4,
+            6,
+            8
+        ]
+    },
+    "7": {
+        "title": "This Day in WMMO History - May 30th",
+        "text": "On May 30th, several landmark moments shaped the legacy of WMMO, marking the date as one of reflection and celebration for listeners and staff alike. In 1985, WMMO officially flipped its format to classic rock, a bold move that distinguished the station in a competitive market and set the tone for decades of legendary programming. The debut song that morning—The Rolling Stones’ “Start Me Up”—signaled a new era that resonated with Central Florida audiences.\n\nYears later, on May 30, 1999, WMMO hosted its first annual Memorial Weekend Rock Marathon, a 48-hour, commercial-light tribute to rock’s greatest icons. The event quickly became a fan-favorite tradition, drawing record-breaking listenership and cementing the station’s reputation for immersive, fan-driven programming.\n\nMay 30th also marks a milestone from 2012, when WMMO launched its revamped mobile app, expanding its reach beyond terrestrial radio and connecting with a new generation of digital listeners. The app’s debut included exclusive backstage interviews and live concert streams, underscoring the station’s commitment to innovation.\n\nFrom format-defining decisions to community-building broadcasts, May 30th stands as a testament to WMMO’s enduring dedication to classic rock and the loyal audience that continues to turn it up loud.",
+        "sentence_list": [
+            "On May 30th, several landmark moments shaped the legacy of WMMO, marking the date as one of reflection and celebration for listeners and staff alike.",
+            "In 1985, WMMO officially flipped its format to classic rock, a bold move that distinguished the station in a competitive market and set the tone for decades of legendary programming.",
+            "The debut song that morning—The Rolling Stones’ “Start Me Up”—signaled a new era that resonated with Central Florida audiences.",
+            "Years later, on May 30, 1999, WMMO hosted its first annual Memorial Weekend Rock Marathon, a 48-hour, commercial-light tribute to rock’s greatest icons.",
+            "The event quickly became a fan-favorite tradition, drawing record-breaking listenership and cementing the station’s reputation for immersive, fan-driven programming.",
+            "May 30th also marks a milestone from 2012, when WMMO launched its revamped mobile app, expanding its reach beyond terrestrial radio and connecting with a new generation of digital listeners.",
+            "The app’s debut included exclusive backstage interviews and live concert streams, underscoring the station’s commitment to innovation.",
+            "From format-defining decisions to community-building broadcasts, May 30th stands as a testament to WMMO’s enduring dedication to classic rock and the loyal audience that continues to turn it up loud."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            2,
+            4,
+            6,
+            7
+        ]
+    },
+    "8": {
+        "title": "Egypt's parliament approves Red Sea islands transfer to Saudi Arabia",
+        "text": "Egypt's parliament has approved a long-debated agreement transferring sovereignty over two Red Sea islands, Tiran and Sanafir, to Saudi Arabia, marking a significant step in a controversial maritime deal. Lawmakers voted in favor of the accord during a plenary session, despite vocal opposition from some MPs and public protests in recent years.\n\nThe government has argued that the islands historically belong to Saudi Arabia and that the agreement corrects administrative arrangements dating back to the 1950s. Officials said the transfer would strengthen bilateral ties and unlock economic cooperation, including planned development projects in the Red Sea.\n\nCritics, however, contend that the islands are Egyptian territory and have challenged the move in court. Previous judicial rulings had produced conflicting decisions, fueling a heated national debate over sovereignty and transparency. Security officials emphasized that navigation through the strategic Strait of Tiran will remain open in accordance with international agreements.\n\nSaudi authorities welcomed the vote, describing it as a reaffirmation of historic rights and regional partnership. The agreement now awaits final ratification procedures, after which administrative control is expected to be formally transferred.\n\nAnalysts say the decision could reshape regional alliances and test domestic political stability in the months ahead. Across the region.",
+        "sentence_list": [
+            "Egypt's parliament has approved a long-debated agreement transferring sovereignty over two Red Sea islands, Tiran and Sanafir, to Saudi Arabia, marking a significant step in a controversial maritime deal.",
+            "Lawmakers voted in favor of the accord during a plenary session, despite vocal opposition from some MPs and public protests in recent years.",
+            "The government has argued that the islands historically belong to Saudi Arabia and that the agreement corrects administrative arrangements dating back to the 1950s.",
+            "Officials said the transfer would strengthen bilateral ties and unlock economic cooperation, including planned development projects in the Red Sea.",
+            "Critics, however, contend that the islands are Egyptian territory and have challenged the move in court.",
+            "Previous judicial rulings had produced conflicting decisions, fueling a heated national debate over sovereignty and transparency.",
+            "Security officials emphasized that navigation through the strategic Strait of Tiran will remain open in accordance with international agreements.",
+            "Saudi authorities welcomed the vote, describing it as a reaffirmation of historic rights and regional partnership.",
+            "The agreement now awaits final ratification procedures, after which administrative control is expected to be formally transferred.",
+            "Analysts say the decision could reshape regional alliances and test domestic political stability in the months ahead.",
+            "Across the region."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            3,
+            6,
+            8,
+            10
+        ]
+    },
+    "9": {
+        "title": "How much do you know about the Solar Eclipse?",
+        "text": "Skywatchers around the world are preparing for one of nature’s most breathtaking events: a solar eclipse. But how much do you really know about this celestial phenomenon?\n\nA solar eclipse occurs when the Moon passes between the Earth and the Sun, temporarily blocking some or all of the Sun’s light. There are three main types: total, partial, and annular. During a total solar eclipse, the Moon completely covers the Sun, turning day into twilight for a few dramatic minutes. In a partial eclipse, only part of the Sun is obscured. An annular eclipse happens when the Moon is too far from Earth to fully cover the Sun, leaving a bright “ring of fire” visible in the sky.\n\nSolar eclipses do not happen every month because the Moon’s orbit is slightly tilted relative to Earth’s orbit around the Sun. When conditions align perfectly, the spectacle can be seen from specific regions of the world.\n\nExperts warn that looking directly at a solar eclipse without proper eye protection can cause serious eye damage. Special eclipse glasses or indirect viewing methods are essential.\n\nBeyond their beauty, solar eclipses help scientists study the Sun’s outer atmosphere, known as the corona, offering valuable insights into solar activity and space weather.",
+        "sentence_list": [
+            "Skywatchers around the world are preparing for one of nature’s most breathtaking events: a solar eclipse.",
+            "But how much do you really know about this celestial phenomenon?",
+            "A solar eclipse occurs when the Moon passes between the Earth and the Sun, temporarily blocking some or all of the Sun’s light.",
+            "There are three main types: total, partial, and annular.",
+            "During a total solar eclipse, the Moon completely covers the Sun, turning day into twilight for a few dramatic minutes.",
+            "In a partial eclipse, only part of the Sun is obscured.",
+            "An annular eclipse happens when the Moon is too far from Earth to fully cover the Sun, leaving a bright “ring of fire” visible in the sky.",
+            "Solar eclipses do not happen every month because the Moon’s orbit is slightly tilted relative to Earth’s orbit around the Sun.",
+            "When conditions align perfectly, the spectacle can be seen from specific regions of the world.",
+            "Experts warn that looking directly at a solar eclipse without proper eye protection can cause serious eye damage.",
+            "Special eclipse glasses or indirect viewing methods are essential.",
+            "Beyond their beauty, solar eclipses help scientists study the Sun’s outer atmosphere, known as the corona, offering valuable insights into solar activity and space weather."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            6,
+            8,
+            10,
+            11
+        ]
+    },
+    "10": {
+        "title": "A look at the physical tests needed to be a firefighter",
+        "text": "Firefighting is widely regarded as one of the most physically demanding professions, and departments across the country require candidates to pass rigorous physical ability tests before joining the ranks. These exams are designed to simulate real-life emergency scenarios and ensure recruits can handle the intense demands of the job.\n\nOne of the most common assessments is the Candidate Physical Ability Test (CPAT), which includes eight timed events. Applicants must climb stairs while carrying weighted equipment, drag charged hoses across a set distance, and raise and extend ladders. They also perform forcible entry simulations using weighted sleds, navigate dark, confined spaces, and rescue a life-sized mannequin weighing up to 165 pounds.\n\nStrength, endurance, agility, and cardiovascular fitness are all measured during the process. Candidates often wear a weighted vest to replicate the 50 to 75 pounds of protective gear firefighters typically carry. The test is completed in under 10 minutes in many departments, requiring both speed and stamina.\n\nFire officials say the standards are essential for public and firefighter safety. Proper preparation, including strength training and aerobic conditioning, is strongly recommended for anyone considering a career in the fire service.",
+        "sentence_list": [
+            "Firefighting is widely regarded as one of the most physically demanding professions, and departments across the country require candidates to pass rigorous physical ability tests before joining the ranks.",
+            "These exams are designed to simulate real-life emergency scenarios and ensure recruits can handle the intense demands of the job.",
+            "One of the most common assessments is the Candidate Physical Ability Test (CPAT), which includes eight timed events.",
+            "Applicants must climb stairs while carrying weighted equipment, drag charged hoses across a set distance, and raise and extend ladders.",
+            "They also perform forcible entry simulations using weighted sleds, navigate dark, confined spaces, and rescue a life-sized mannequin weighing up to 165 pounds.",
+            "Strength, endurance, agility, and cardiovascular fitness are all measured during the process.",
+            "Candidates often wear a weighted vest to replicate the 50 to 75 pounds of protective gear firefighters typically carry.",
+            "The test is completed in under 10 minutes in many departments, requiring both speed and stamina.",
+            "Fire officials say the standards are essential for public and firefighter safety.",
+            "Proper preparation, including strength training and aerobic conditioning, is strongly recommended for anyone considering a career in the fire service."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            4,
+            7,
+            9
+        ]
+    },
+    "11": {
+        "title": "The Indigenous Revival of Traditional Birth",
+        "text": "Across Canada and the United States, Indigenous communities are reclaiming traditional birth practices that were suppressed for generations. Once outlawed or discouraged by colonial policies that forced women into distant hospitals, community-led midwifery is returning to reserves and rural homelands.\n\nElders and knowledge keepers are teaching young midwives ancestral teachings that center birth as a sacred ceremony rather than a medical emergency. Expectant mothers are again surrounded by family, language, song, and land. In northern Manitoba, a new Indigenous-run birthing center reports that more than 60 families have chosen to deliver locally since it opened last year, reducing costly medical evacuations and strengthening cultural continuity.\n\nHealth researchers say outcomes are promising. Community-based prenatal care has improved maternal mental health and increased breastfeeding rates. Advocates argue the movement is not a rejection of modern medicine but a blending of clinical training with traditional knowledge.\n\nFederal and provincial agencies have begun funding Indigenous midwifery programs, acknowledging past harms. For many families, however, the revival is about sovereignty as much as safety — restoring the right to welcome children into the world according to their own laws, lands, and lifeways. Leaders say the resurgence signals healing across generations and renewed community strength nationwide.",
+        "sentence_list": [
+            "Across Canada and the United States, Indigenous communities are reclaiming traditional birth practices that were suppressed for generations.",
+            "Once outlawed or discouraged by colonial policies that forced women into distant hospitals, community-led midwifery is returning to reserves and rural homelands.",
+            "Elders and knowledge keepers are teaching young midwives ancestral teachings that center birth as a sacred ceremony rather than a medical emergency.",
+            "Expectant mothers are again surrounded by family, language, song, and land.",
+            "In northern Manitoba, a new Indigenous-run birthing center reports that more than 60 families have chosen to deliver locally since it opened last year, reducing costly medical evacuations and strengthening cultural continuity.",
+            "Health researchers say outcomes are promising.",
+            "Community-based prenatal care has improved maternal mental health and increased breastfeeding rates.",
+            "Advocates argue the movement is not a rejection of modern medicine but a blending of clinical training with traditional knowledge.",
+            "Federal and provincial agencies have begun funding Indigenous midwifery programs, acknowledging past harms.",
+            "For many families, however, the revival is about sovereignty as much as safety — restoring the right to welcome children into the world according to their own laws, lands, and lifeways.",
+            "Leaders say the resurgence signals healing across generations and renewed community strength nationwide."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            4,
+            7,
+            10
+        ]
+    },
+    "12": {
+        "title": "Former First Lady Barbara Bush has died at 92",
+        "text": "Barbara Bush, the former first lady of the United States and matriarch of one of the country’s most prominent political families, has died at the age of 92. A family spokesperson confirmed that Bush passed away peacefully at her home in Houston, surrounded by loved ones.\n\nWife of the 41st president, George H.W. Bush, she served as first lady from 1989 to 1993. Known for her trademark white hair, sharp wit and outspoken advocacy for literacy, Bush championed education initiatives throughout her public life. She founded the Barbara Bush Foundation for Family Literacy in 1989, helping raise millions of dollars to promote reading and writing programs nationwide.\n\nBorn Barbara Pierce in New York City in 1925, she married George H.W. Bush in 1945 and raised six children, including former President George W. Bush and former Florida Governor Jeb Bush. She was widely regarded as a steadying force within the Bush family and a candid voice in American politics.\n\nTributes poured in from leaders across the political spectrum, praising her dedication to public service, family and country. Funeral arrangements are expected to be announced in the coming days. She will be remembered for her resilience and enduring grace throughout her life.",
+        "sentence_list": [
+            "Barbara Bush, the former first lady of the United States and matriarch of one of the country’s most prominent political families, has died at the age of 92.",
+            "A family spokesperson confirmed that Bush passed away peacefully at her home in Houston, surrounded by loved ones.",
+            "Wife of the 41st president, George H.W.",
+            "Bush, she served as first lady from 1989 to 1993.",
+            "Known for her trademark white hair, sharp wit and outspoken advocacy for literacy, Bush championed education initiatives throughout her public life.",
+            "She founded the Barbara Bush Foundation for Family Literacy in 1989, helping raise millions of dollars to promote reading and writing programs nationwide.",
+            "Born Barbara Pierce in New York City in 1925, she married George H.W.",
+            "Bush in 1945 and raised six children, including former President George W. Bush and former Florida Governor Jeb Bush.",
+            "She was widely regarded as a steadying force within the Bush family and a candid voice in American politics.",
+            "Tributes poured in from leaders across the political spectrum, praising her dedication to public service, family and country.",
+            "Funeral arrangements are expected to be announced in the coming days.",
+            "She will be remembered for her resilience and enduring grace throughout her life."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            5,
+            8,
+            11
+        ]
+    },
+    "13": {
+        "title": "Quantum physicist named Australian of the Year",
+        "text": "Renowned quantum physicist Dr. Amelia Hart has been named Australian of the Year, honored for her pioneering research in quantum computing and her tireless advocacy for science education. Announced at a ceremony in Canberra on Tuesday night, the award recognizes Hart’s leadership in developing ultra-stable qubits that could dramatically accelerate the arrival of practical quantum technologies.\n\nHart, a professor at the University of Sydney and director of the National Quantum Innovation Centre, has spent two decades advancing methods to reduce error rates in quantum processors. Her team’s breakthrough last year demonstrated a scalable architecture capable of operating at room temperature, a milestone experts say could lower costs and expand commercial applications.\n\nBeyond the laboratory, Hart has championed greater access to STEM education for girls and students in regional communities. She has launched mentorship programs, advised government on critical technology policy, and spoken widely about the ethical implications of quantum breakthroughs.\n\nPrime Minister said Hart embodies “curiosity, collaboration and courage.” Accepting the award, Hart dedicated the honor to her students and colleagues, urging sustained investment in research to secure Australia’s place in the global quantum race. She called the moment a reminder of science’s power to unite nations through shared discovery.",
+        "sentence_list": [
+            "Renowned quantum physicist Dr. Amelia Hart has been named Australian of the Year, honored for her pioneering research in quantum computing and her tireless advocacy for science education.",
+            "Announced at a ceremony in Canberra on Tuesday night, the award recognizes Hart’s leadership in developing ultra-stable qubits that could dramatically accelerate the arrival of practical quantum technologies.",
+            "Hart, a professor at the University of Sydney and director of the National Quantum Innovation Centre, has spent two decades advancing methods to reduce error rates in quantum processors.",
+            "Her team’s breakthrough last year demonstrated a scalable architecture capable of operating at room temperature, a milestone experts say could lower costs and expand commercial applications.",
+            "Beyond the laboratory, Hart has championed greater access to STEM education for girls and students in regional communities.",
+            "She has launched mentorship programs, advised government on critical technology policy, and spoken widely about the ethical implications of quantum breakthroughs.",
+            "Prime Minister said Hart embodies “curiosity, collaboration and courage.” Accepting the award, Hart dedicated the honor to her students and colleagues, urging sustained investment in research to secure Australia’s place in the global quantum race.",
+            "She called the moment a reminder of science’s power to unite nations through shared discovery."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            3,
+            5,
+            7
+        ]
+    },
+    "14": {
+        "title": "Scientists Discover 91 Volcanoes Below Antarctic Ice Sheet",
+        "text": "Scientists have identified 91 previously unknown volcanoes buried deep beneath the Antarctic Ice Sheet, dramatically reshaping understanding of the frozen continent’s geology. The discoveries, made using ice-penetrating radar and satellite data, reveal a vast volcanic province stretching across West Antarctica, with peaks ranging from 100 meters to nearly 4,000 meters in height.\n\nResearchers say the hidden chain rivals some of the world’s most active volcanic regions in scale, though it remains unclear how many of the volcanoes are dormant or potentially active. Most are concealed beneath up to two kilometers of ice, making direct observation impossible without advanced imaging technology.\n\nThe findings raise important questions about the stability of the Antarctic Ice Sheet. Scientists warn that geothermal heat from volcanic activity could accelerate melting from below, potentially influencing global sea level rise. However, experts caution that more research is needed to determine whether any of the volcanoes pose an immediate threat.\n\nThe discovery also offers new insight into Antarctica’s tectonic history, suggesting the region may be more geologically dynamic than previously believed. Researchers plan further surveys to map the area in greater detail and assess how subglacial volcanic systems interact with the ice above.",
+        "sentence_list": [
+            "Scientists have identified 91 previously unknown volcanoes buried deep beneath the Antarctic Ice Sheet, dramatically reshaping understanding of the frozen continent’s geology.",
+            "The discoveries, made using ice-penetrating radar and satellite data, reveal a vast volcanic province stretching across West Antarctica, with peaks ranging from 100 meters to nearly 4,000 meters in height.",
+            "Researchers say the hidden chain rivals some of the world’s most active volcanic regions in scale, though it remains unclear how many of the volcanoes are dormant or potentially active.",
+            "Most are concealed beneath up to two kilometers of ice, making direct observation impossible without advanced imaging technology.",
+            "The findings raise important questions about the stability of the Antarctic Ice Sheet.",
+            "Scientists warn that geothermal heat from volcanic activity could accelerate melting from below, potentially influencing global sea level rise.",
+            "However, experts caution that more research is needed to determine whether any of the volcanoes pose an immediate threat.",
+            "The discovery also offers new insight into Antarctica’s tectonic history, suggesting the region may be more geologically dynamic than previously believed.",
+            "Researchers plan further surveys to map the area in greater detail and assess how subglacial volcanic systems interact with the ice above."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            3,
+            6,
+            8
+        ]
+    },
+    "15": {
+        "title": "History of the century old Congressional baseball game",
+        "text": "For more than a century, the Congressional Baseball Game has brought together lawmakers from both parties in a rare display of bipartisan camaraderie. First played in 1909, the annual contest features members of the U.S. House and Senate competing in a friendly rivalry that blends America’s pastime with public service.\n\nThe inaugural game was organized by Representative John Tener of Pennsylvania, a former professional baseball player. Though early matchups were informal and occasionally interrupted by world events, the tradition endured, becoming a beloved fixture of Washington life. By the mid-20th century, the game had grown in popularity, drawing thousands of spectators and raising funds for local charities.\n\nOver the decades, Republicans and Democrats have formed their own teams, practicing for weeks before facing off in a spirited contest. The event has evolved into a major charitable fundraiser, generating millions of dollars for organizations such as the Boys and Girls Clubs of Greater Washington, the Washington Literacy Center, and the U.S. Capitol Police Memorial Fund.\n\nDespite moments of national tension, the game has symbolized unity and resilience. Following the 2017 shooting at a practice session, lawmakers returned to the field in a powerful show of solidarity. Today, the Congressional Baseball Game stands as a testament to tradition, teamwork, and the enduring appeal of baseball.",
+        "sentence_list": [
+            "For more than a century, the Congressional Baseball Game has brought together lawmakers from both parties in a rare display of bipartisan camaraderie.",
+            "First played in 1909, the annual contest features members of the U.S. House and Senate competing in a friendly rivalry that blends America’s pastime with public service.",
+            "The inaugural game was organized by Representative John Tener of Pennsylvania, a former professional baseball player.",
+            "Though early matchups were informal and occasionally interrupted by world events, the tradition endured, becoming a beloved fixture of Washington life.",
+            "By the mid-20th century, the game had grown in popularity, drawing thousands of spectators and raising funds for local charities.",
+            "Over the decades, Republicans and Democrats have formed their own teams, practicing for weeks before facing off in a spirited contest.",
+            "The event has evolved into a major charitable fundraiser, generating millions of dollars for organizations such as the Boys and Girls Clubs of Greater Washington, the Washington Literacy Center, and the U.S. Capitol Police Memorial Fund.",
+            "Despite moments of national tension, the game has symbolized unity and resilience.",
+            "Following the 2017 shooting at a practice session, lawmakers returned to the field in a powerful show of solidarity.",
+            "Today, the Congressional Baseball Game stands as a testament to tradition, teamwork, and the enduring appeal of baseball."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            4,
+            6,
+            9
+        ]
+    },
+    "16": {
+        "title": "Ireland's safe haven at sea",
+        "text": "Ireland’s rugged Atlantic coastline has long been a place of refuge, but a new initiative is turning its waters into a modern sanctuary. The government this week announced the creation of a designated “safe haven at sea,” a protected maritime corridor designed to shelter small vessels during extreme weather and humanitarian emergencies.\n\nStretching along the southwest coast, the zone will provide monitored anchorage, emergency supplies, and rapid-response crews trained in medical and mechanical support. Officials say the plan was shaped by lessons from recent storms that left fishing boats and recreational sailors scrambling for cover.\n\nTransport Minister Aoife Gallagher described the project as “a commitment to safety, solidarity and sustainable seas.” Environmental groups have welcomed strict limits on commercial traffic within the corridor, aimed at reducing collision risks and safeguarding marine life.\n\nLocal harbor masters will coordinate with the Irish Coast Guard using upgraded radar and satellite tracking systems funded through a €45 million investment package. Community volunteers are also set to receive training to assist in rescue and relief efforts.\n\nMaritime experts believe the initiative could serve as a model for other Atlantic nations facing increasingly volatile weather patterns, reinforcing Ireland’s reputation as a safe harbor in uncertain times.",
+        "sentence_list": [
+            "Ireland’s rugged Atlantic coastline has long been a place of refuge, but a new initiative is turning its waters into a modern sanctuary.",
+            "The government this week announced the creation of a designated “safe haven at sea,” a protected maritime corridor designed to shelter small vessels during extreme weather and humanitarian emergencies.",
+            "Stretching along the southwest coast, the zone will provide monitored anchorage, emergency supplies, and rapid-response crews trained in medical and mechanical support.",
+            "Officials say the plan was shaped by lessons from recent storms that left fishing boats and recreational sailors scrambling for cover.",
+            "Transport Minister Aoife Gallagher described the project as “a commitment to safety, solidarity and sustainable seas.” Environmental groups have welcomed strict limits on commercial traffic within the corridor, aimed at reducing collision risks and safeguarding marine life.",
+            "Local harbor masters will coordinate with the Irish Coast Guard using upgraded radar and satellite tracking systems funded through a €45 million investment package.",
+            "Community volunteers are also set to receive training to assist in rescue and relief efforts.",
+            "Maritime experts believe the initiative could serve as a model for other Atlantic nations facing increasingly volatile weather patterns, reinforcing Ireland’s reputation as a safe harbor in uncertain times."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            3,
+            4,
+            6,
+            7
+        ]
+    },
+    "17": {
+        "title": "Tree-planting drones hope to fight deforestation",
+        "text": "Autonomous drones equipped with seed pods and artificial intelligence are taking flight in a bid to combat global deforestation, offering conservationists a faster and cheaper way to restore degraded landscapes. Developed by a coalition of environmental startups and university researchers, the tree-planting drones can map barren terrain, analyze soil quality, and fire biodegradable seed capsules into the ground at remarkable speed.\n\nAccording to project leaders, a single drone can plant up to 40,000 trees per day, far surpassing traditional manual efforts. The devices use satellite imagery and machine learning to identify optimal planting sites, increasing survival rates while reducing labor costs. Each seed pod is packed with nutrients and natural pest deterrents, giving saplings a stronger start.\n\nEnvironmental advocates say the technology could prove crucial as wildfires, logging, and agricultural expansion continue to shrink forests worldwide. Critics, however, caution that drones are not a silver bullet and must complement broader conservation policies and community involvement. Field trials in Brazil and Indonesia have shown promising early results, with thousands of native seedlings already sprouting. Backers hope expanded deployments next year will help reclaim vast stretches of lost forest and curb climate change. Governments are watching closely for scalable climate solutions worldwide.",
+        "sentence_list": [
+            "Autonomous drones equipped with seed pods and artificial intelligence are taking flight in a bid to combat global deforestation, offering conservationists a faster and cheaper way to restore degraded landscapes.",
+            "Developed by a coalition of environmental startups and university researchers, the tree-planting drones can map barren terrain, analyze soil quality, and fire biodegradable seed capsules into the ground at remarkable speed.",
+            "According to project leaders, a single drone can plant up to 40,000 trees per day, far surpassing traditional manual efforts.",
+            "The devices use satellite imagery and machine learning to identify optimal planting sites, increasing survival rates while reducing labor costs.",
+            "Each seed pod is packed with nutrients and natural pest deterrents, giving saplings a stronger start.",
+            "Environmental advocates say the technology could prove crucial as wildfires, logging, and agricultural expansion continue to shrink forests worldwide.",
+            "Critics, however, caution that drones are not a silver bullet and must complement broader conservation policies and community involvement.",
+            "Field trials in Brazil and Indonesia have shown promising early results, with thousands of native seedlings already sprouting.",
+            "Backers hope expanded deployments next year will help reclaim vast stretches of lost forest and curb climate change.",
+            "Governments are watching closely for scalable climate solutions worldwide."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            4,
+            9
+        ]
+    },
+    "18": {
+        "title": "Russia's society: Why so many oligarchs?",
+        "text": "The rise of Russia’s oligarchs is rooted in the turbulent transition from a state-controlled economy to capitalism in the early 1990s. When the Soviet Union collapsed, vast state assets—from oil and gas fields to metals plants and media companies—were rapidly privatized. In theory, privatization was meant to distribute ownership broadly among citizens. In practice, a small group of well-connected businessmen acquired major enterprises at a fraction of their value.\n\nA key moment was the “loans-for-shares” program of the mid-1990s. Facing fiscal crisis, the government auctioned stakes in strategic companies in exchange for short-term loans. Insiders with political connections often won these auctions, consolidating control over lucrative natural resource industries. Weak regulatory institutions and an underdeveloped legal system allowed wealth to concentrate quickly.\n\nRussia’s economy, heavily dependent on commodities such as oil, gas, and metals, further amplified fortunes as global prices rose in the 2000s. Close ties between business leaders and political power structures became a defining feature of the system.\n\nOver time, the state reasserted control over key sectors, reshaping the balance between private wealth and government authority. Yet the legacy of rapid privatization endures. The concentration of assets in a handful of powerful figures remains a defining characteristic of Russia’s post-Soviet economic landscape.",
+        "sentence_list": [
+            "The rise of Russia’s oligarchs is rooted in the turbulent transition from a state-controlled economy to capitalism in the early 1990s.",
+            "When the Soviet Union collapsed, vast state assets—from oil and gas fields to metals plants and media companies—were rapidly privatized.",
+            "In theory, privatization was meant to distribute ownership broadly among citizens.",
+            "In practice, a small group of well-connected businessmen acquired major enterprises at a fraction of their value.",
+            "A key moment was the “loans-for-shares” program of the mid-1990s.",
+            "Facing fiscal crisis, the government auctioned stakes in strategic companies in exchange for short-term loans.",
+            "Insiders with political connections often won these auctions, consolidating control over lucrative natural resource industries.",
+            "Weak regulatory institutions and an underdeveloped legal system allowed wealth to concentrate quickly.",
+            "Russia’s economy, heavily dependent on commodities such as oil, gas, and metals, further amplified fortunes as global prices rose in the 2000s.",
+            "Close ties between business leaders and political power structures became a defining feature of the system.",
+            "Over time, the state reasserted control over key sectors, reshaping the balance between private wealth and government authority.",
+            "Yet the legacy of rapid privatization endures.",
+            "The concentration of assets in a handful of powerful figures remains a defining characteristic of Russia’s post-Soviet economic landscape."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            3,
+            7,
+            9,
+            12
+        ]
+    },
+    "19": {
+        "title": "Nobel Peace Prize goes to anti-nuclear group",
+        "text": "The Nobel Peace Prize was awarded today to the International Campaign for Nuclear Abolition, honoring its decades-long effort to eliminate atomic weapons and reduce the risk of catastrophic war. The Norwegian Nobel Committee praised the coalition of grassroots activists, scientists, and survivors of nuclear testing for building global momentum behind the Treaty on the Prohibition of Nuclear Weapons. In its citation, the committee said the group had \"reframed the debate on nuclear deterrence by highlighting the humanitarian consequences of any use.\"\n\nAccepting the award in Oslo, executive director Maria Santos called the prize \"a tribute to ordinary people who refuse to live under the shadow of annihilation.\" She urged nuclear-armed states to join disarmament talks and invest instead in health, climate, and education. Leaders from several countries welcomed the decision, while officials in nuclear powers cautioned that deterrence remains essential to national security.\n\nAnalysts said the prize could intensify diplomatic pressure ahead of next year's nonproliferation review conference, where divisions between nuclear and non-nuclear states are expected. Founded in 2007, the campaign now includes more than 600 partner organizations worldwide and has focused on survivor testimony and youth activism. Committee chair Anne Lunde said the honor recognizes \"persistent moral leadership.\"",
+        "sentence_list": [
+            "The Nobel Peace Prize was awarded today to the International Campaign for Nuclear Abolition, honoring its decades-long effort to eliminate atomic weapons and reduce the risk of catastrophic war.",
+            "The Norwegian Nobel Committee praised the coalition of grassroots activists, scientists, and survivors of nuclear testing for building global momentum behind the Treaty on the Prohibition of Nuclear Weapons.",
+            "In its citation, the committee said the group had \"reframed the debate on nuclear deterrence by highlighting the humanitarian consequences of any use.\"",
+            "Accepting the award in Oslo, executive director Maria Santos called the prize \"a tribute to ordinary people who refuse to live under the shadow of annihilation.\"",
+            "She urged nuclear-armed states to join disarmament talks and invest instead in health, climate, and education.",
+            "Leaders from several countries welcomed the decision, while officials in nuclear powers cautioned that deterrence remains essential to national security.",
+            "Analysts said the prize could intensify diplomatic pressure ahead of next year's nonproliferation review conference, where divisions between nuclear and non-nuclear states are expected.",
+            "Founded in 2007, the campaign now includes more than 600 partner organizations worldwide and has focused on survivor testimony and youth activism.",
+            "Committee chair Anne Lunde said the honor recognizes \"persistent moral leadership.\""
+        ],
+        "end_of_paragraph_sentences_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    "20": {
+        "title": "The mystery of disappearing Chinese tycoons",
+        "text": "A growing number of China’s most prominent business leaders have vanished from public view in recent years, fueling speculation about the forces reshaping the country’s corporate elite. Once-celebrated tycoons who dominated headlines, from technology pioneers to real estate magnates, have abruptly stepped down from executive roles, disappeared from social media, or been detained without immediate explanation.\n\nAnalysts point to Beijing’s sweeping anti-corruption campaigns and regulatory crackdowns as key factors. Authorities have tightened oversight of industries ranging from finance and technology to property development, citing concerns about systemic risk and national security. In several high-profile cases, executives later reemerged to acknowledge investigations into alleged financial crimes or regulatory violations. Others have faced formal charges, while a few have remained largely out of sight.\n\nThe uncertainty has rattled investors and prompted questions about transparency in the world’s second-largest economy. International markets have reacted sharply to sudden leadership changes at major firms, underscoring the global impact of domestic policy shifts.\n\nChinese officials maintain that the investigations are necessary to promote “common prosperity” and ensure long-term stability. But for many observers, the recurring pattern of disappearing tycoons highlights the precarious balance between private enterprise and state authority in modern China.",
+        "sentence_list": [
+            "A growing number of China’s most prominent business leaders have vanished from public view in recent years, fueling speculation about the forces reshaping the country’s corporate elite.",
+            "Once-celebrated tycoons who dominated headlines, from technology pioneers to real estate magnates, have abruptly stepped down from executive roles, disappeared from social media, or been detained without immediate explanation.",
+            "Analysts point to Beijing’s sweeping anti-corruption campaigns and regulatory crackdowns as key factors.",
+            "Authorities have tightened oversight of industries ranging from finance and technology to property development, citing concerns about systemic risk and national security.",
+            "In several high-profile cases, executives later reemerged to acknowledge investigations into alleged financial crimes or regulatory violations.",
+            "Others have faced formal charges, while a few have remained largely out of sight.",
+            "The uncertainty has rattled investors and prompted questions about transparency in the world’s second-largest economy.",
+            "International markets have reacted sharply to sudden leadership changes at major firms, underscoring the global impact of domestic policy shifts.",
+            "Chinese officials maintain that the investigations are necessary to promote “common prosperity” and ensure long-term stability.",
+            "But for many observers, the recurring pattern of disappearing tycoons highlights the precarious balance between private enterprise and state authority in modern China."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            5,
+            7,
+            9
+        ]
+    },
+    "21": {
+        "title": "Newly Discovered Prehistoric Worm Creature 'Strange Beyond Measure'",
+        "text": "Scientists have unveiled a newly discovered prehistoric worm-like creature they describe as “strange beyond measure,” shedding light on an unusual branch of early animal evolution. The fossilized remains, found in 520‑million‑year‑old marine sediments in western China, reveal a soft-bodied organism with a tubular form, ringed segments, and a circular mouth lined with sharp, backward-facing spines.\n\nMeasuring just a few inches long, the creature likely lived on the seafloor during the Cambrian Period, a time when complex life rapidly diversified. Researchers believe it used its spiny mouth to latch onto prey or organic debris, drawing food into a simple digestive tract. Despite its modest size, the worm’s anatomy is unlike that of any modern species.\n\n“It’s strange beyond measure,” said lead paleontologist Dr. Li Wen. “Its combination of features doesn’t neatly fit into any known group, living or extinct.” Advanced imaging techniques revealed preserved muscle fibers and traces of internal organs, offering rare insight into soft-bodied animals that seldom fossilize.\n\nThe discovery suggests that early marine ecosystems were more diverse and experimental than previously understood. Scientists hope further study will clarify where the enigmatic creature fits on the evolutionary tree and what it reveals about the origins of complex animals.",
+        "sentence_list": [
+            "Scientists have unveiled a newly discovered prehistoric worm-like creature they describe as “strange beyond measure,” shedding light on an unusual branch of early animal evolution.",
+            "The fossilized remains, found in 520‑million‑year‑old marine sediments in western China, reveal a soft-bodied organism with a tubular form, ringed segments, and a circular mouth lined with sharp, backward-facing spines.",
+            "Measuring just a few inches long, the creature likely lived on the seafloor during the Cambrian Period, a time when complex life rapidly diversified.",
+            "Researchers believe it used its spiny mouth to latch onto prey or organic debris, drawing food into a simple digestive tract.",
+            "Despite its modest size, the worm’s anatomy is unlike that of any modern species.",
+            "“It’s strange beyond measure,” said lead paleontologist Dr. Li Wen.",
+            "“Its combination of features doesn’t neatly fit into any known group, living or extinct.” Advanced imaging techniques revealed preserved muscle fibers and traces of internal organs, offering rare insight into soft-bodied animals that seldom fossilize.",
+            "The discovery suggests that early marine ecosystems were more diverse and experimental than previously understood.",
+            "Scientists hope further study will clarify where the enigmatic creature fits on the evolutionary tree and what it reveals about the origins of complex animals."
+        ],
+        "end_of_paragraph_sentences_indices": [
+            1,
+            4,
+            6,
+            8
+        ]
+    }
+}
